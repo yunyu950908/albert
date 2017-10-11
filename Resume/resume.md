@@ -2,14 +2,14 @@
 
 ### 基本信息
 
-姓名：李煜
-年龄：23
-学历：本科（2013 - 2017）
-前端经验：1年
-求职意向：前端工程师
-github：https://github.com/yunyu950908
-手机：17601778147
-邮箱：936787599@qq.com
+- 姓名：李煜
+- 年龄：23
+- 学历：本科（2013 - 2017）
+- 前端经验：1年
+- 求职意向：前端工程师
+- github：https://github.com/yunyu950908
+- 手机：17601778147
+- 邮箱：yunyu950908@gmail.com
 
 ## 掌握技能
 
@@ -36,11 +36,12 @@ github：https://github.com/yunyu950908
 ### 三、了解（用过）
 0. HTTP 通信，了解 TCP 三次握手四次挥手，状态码，请求/响应 头、首部、主体，能根据 XHR 初步定位bug。
 1. 缓存控制，对强制缓存与对比缓存有一定了解。
-2.  gulp 
+2. gulp 
 3. Require.js 
-4. sequelite / sqlite3
-5. typescript
-6. nginx
+4. sea.js
+5. sequelite / sqlite3
+6. typescript
+7. nginx
 
 ## 个人项目
 
