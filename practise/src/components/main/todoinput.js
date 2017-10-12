@@ -10,7 +10,7 @@ class TodoInput extends Component {
     submit(e) {
         // console.log(this)
         if (e.key === "Enter") {
-            this.props.onSubmit();
+            this.props.onSubmit(e);
         }
     }
 
