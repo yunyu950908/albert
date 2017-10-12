@@ -32,15 +32,14 @@ class App extends Component {
         // this.setState(prev => prev.newTodo = val)
     }
 
-    toggle(e, todo) {
+    toggle(todo) {
         todo.status = todo.status === "completed" ? "" : "completed";
         this.setState(this.state)
     }
 
-    delete(e, todo) {
+    delete(todo) {
         todo.deleted = true;
         this.setState(this.state)
-        console.log(this.state)
     }
 
     render() {
