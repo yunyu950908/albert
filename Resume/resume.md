@@ -8,7 +8,6 @@
 - 前端经验：1年
 - 求职意向：前端工程师
 - github：https://github.com/yunyu950908
-- 手机：17601778147
 - 邮箱：yunyu950908@gmail.com
 
 ## 掌握技能
